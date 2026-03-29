@@ -1,2 +1,2 @@
 # capstoneproject
-capstone project 
+capstone project  for AI and ML course
